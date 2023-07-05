@@ -6,3 +6,5 @@ Modded from [https://github.com/liu976336402/NUC9-hackintosh](https://github.com
 Disabled the on-board AX Intel WiFi/BT card, added BCM94360 instead.
 
 Already changed corresponding kext (USB/WIFI/BT)
+
+Tested working on Monterey 12.6.1
